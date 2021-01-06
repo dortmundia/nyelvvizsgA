@@ -60,7 +60,7 @@ public class Main {
         System.out.println(nyelvek.get(top1szam).getNyelv());
         System.out.println(nyelvek.get(top2szam).getNyelv());
         System.out.println(nyelvek.get(top3szam).getNyelv());
-
+        //Elnézést hogycsak  ennyi sikerült de ki jöttem a gépelésből illetve a github utál engem...
 
 
     }
